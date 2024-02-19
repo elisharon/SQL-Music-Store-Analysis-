@@ -8,8 +8,8 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 3. Import csv files provided in the <a href="https://github.com/elisharon/SQL-Music-Store-Analysis-/blob/main/music%20store%20data.zip">dataset</a> folder.
 
 ## Database tools 
-Postgre SQL
-PgAdmin4
+• Postgre SQL
+• PgAdmin4
 
 ## Questions Answered
 
