@@ -11,6 +11,7 @@ To run this project on your machine you need to install any SQL-supported DBMS t
 
 * Postgre SQL
 * PgAdmin4
+![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/elisharon/SQL-Music-Store-Analysis-/assets/158561982/011b338b-12f1-4947-954a-b7f050400038)
 
 
 ## Questions Answered
